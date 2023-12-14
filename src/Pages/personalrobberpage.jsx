@@ -1,18 +1,14 @@
 
 import { useParams } from 'react-router-dom';
 import { robbersList } from '../helpers/robbersList';
-import Carousel from 'react-bootstrap/Carousel';
 import Timeline from '../Components/timeline/timeline';
 import VideoElement from '../Components/youtubevideo/videoelement';
-
 import Button from 'react-bootstrap/Button';
-
+import MySlider from '../Components/slider/slider';
 
 function PersonalRobberPage() {
 	const { id } = useParams();
 	const currRobber = robbersList[id];
-
-
 
 	return (
 		<main className="section">
@@ -34,12 +30,12 @@ function PersonalRobberPage() {
 
 					<h2 className="title-2">Video</h2>
 					<VideoElement name={currRobber.name} />
-
+					<MySlider/>
 					<Button href="https://www.youtube.com/" target='_blank' style={
 						{ background: "black" }
 					}>
 						Link
-					</Button>
+					</Button>	
 
 				</div>
 			</div>
