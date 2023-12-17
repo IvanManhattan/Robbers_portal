@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Robbers_portal/static/css/main.64748613.css",
-    "main.js": "/Robbers_portal/static/js/main.2f0f5d5c.js",
+    "main.css": "/Robbers_portal/static/css/main.4edd6a7b.css",
+    "main.js": "/Robbers_portal/static/js/main.b462e0fc.js",
     "static/media/FlatcTaylorFrankJamesandJesseJames.png": "/Robbers_portal/static/media/FlatcTaylorFrankJamesandJesseJames.31c02f43e689b2db443c.png",
     "static/media/cassidyandkid.jpg": "/Robbers_portal/static/media/cassidyandkid.72fc9d608b391a3c1cef.jpg",
     "static/media/wanted.png": "/Robbers_portal/static/media/wanted.2528de8eaaa930e1216c.png",
@@ -37,11 +37,11 @@
     "static/media/slick.woff": "/Robbers_portal/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Robbers_portal/index.html",
     "static/media/getFetch.cjs": "/Robbers_portal/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.64748613.css.map": "/Robbers_portal/static/css/main.64748613.css.map",
-    "main.2f0f5d5c.js.map": "/Robbers_portal/static/js/main.2f0f5d5c.js.map"
+    "main.4edd6a7b.css.map": "/Robbers_portal/static/css/main.4edd6a7b.css.map",
+    "main.b462e0fc.js.map": "/Robbers_portal/static/js/main.b462e0fc.js.map"
   },
   "entrypoints": [
-    "static/css/main.64748613.css",
-    "static/js/main.2f0f5d5c.js"
+    "static/css/main.4edd6a7b.css",
+    "static/js/main.b462e0fc.js"
   ]
 }
