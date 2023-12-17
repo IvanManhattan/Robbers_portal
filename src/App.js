@@ -22,7 +22,7 @@ function App() {
 				<Navbar />
 
 				<Routes>
-
+					<Route exact path="/Robbers_portal" element={<HomePage />} />
 					<Route path="/" element={<HomePage />} />
 					<Route path="/robberspage" element={<RobbersPage />} />
 					<Route path="/about" element={<About />} />
