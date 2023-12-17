@@ -1,6 +1,5 @@
-
-
-
-@media screen and (max-width: 690px) {
-	
+.mapstyle  {
+    height: 400px;
+    width: 100%;
+    margin: auto;
 }
