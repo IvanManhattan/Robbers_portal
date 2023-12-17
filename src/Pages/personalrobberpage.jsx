@@ -43,8 +43,20 @@ function PersonalRobberPage() {
 
 					<h2 className="title-2">{t("Map")}</h2>
 					<div style={{ width: '100%', height: '100%' }}>
-						<Map mLat={parseFloat(currRobber.mLat)}
-							mLng={parseFloat(currRobber.mLng)} />
+						<Map
+							zoom={parseInt(currRobber.zoom)}
+							cLat={parseFloat(currRobber.cLat)}
+							cLng={parseFloat(currRobber.cLng)}
+							mLat1={parseFloat(currRobber.mLat1)}
+							mLng1={parseFloat(currRobber.mLng1)}
+							mTitle1={currRobber.mTitle1}
+							mLat2={parseFloat(currRobber.mLat2)}
+							mLng2={parseFloat(currRobber.mLng2)}
+							mTitle2={currRobber.mTitle2}
+							mLat3={parseFloat(currRobber.mLat3)}
+							mLng3={parseFloat(currRobber.mLng3)}
+							mTitle3={currRobber.mTitle3}
+							/>
 					</div>
 					<h2 className="title-2">{t("Video")}</h2>
 					<VideoElement name={currRobber.name} />
