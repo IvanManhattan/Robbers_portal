@@ -2,7 +2,7 @@ import React from 'react'
 import { GoogleMap, useJsApiLoader, Marker } from '@react-google-maps/api';
 
 const containerStyle = {
-	width: '90%',
+	width: '100%',
 	height: '400px',
 	marginLeft: '15px'
 };
@@ -31,6 +31,7 @@ function Map({zoom, cLat, cLng, mLat1, mLng1, mTitle1, mLat2, mLng2, mTitle2, mL
 			onLoad={onLoad}
 		>
 			<Marker
+
 				label={mTitle1}
 				position={{ lat: mLat1, lng: mLng1}}
 
