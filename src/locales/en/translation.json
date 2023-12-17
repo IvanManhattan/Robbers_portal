@@ -14,5 +14,10 @@
 	"Search": "Search...",
 	"Video": "Video",
 	"Map": "Map",
-	"Gallery": "Gallery"
+	"Gallery": "Gallery",
+	"Birth": "Place of the birth",
+	"Robbery": "Place of the first robbery",
+	"BRobbery": "Place of the first bank robbery",
+	"New York": "The borough of his first robberies",
+	"Death": "Place of the death"
 }
