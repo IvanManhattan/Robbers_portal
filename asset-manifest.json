@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Robbers_portal/static/css/main.8ad512a4.css",
-    "main.js": "/Robbers_portal/static/js/main.3a964b78.js",
+    "main.css": "/Robbers_portal/static/css/main.64748613.css",
+    "main.js": "/Robbers_portal/static/js/main.2f0f5d5c.js",
     "static/media/FlatcTaylorFrankJamesandJesseJames.png": "/Robbers_portal/static/media/FlatcTaylorFrankJamesandJesseJames.31c02f43e689b2db443c.png",
     "static/media/cassidyandkid.jpg": "/Robbers_portal/static/media/cassidyandkid.72fc9d608b391a3c1cef.jpg",
     "static/media/wanted.png": "/Robbers_portal/static/media/wanted.2528de8eaaa930e1216c.png",
@@ -30,21 +30,18 @@
     "static/media/henry2.jpg": "/Robbers_portal/static/media/henry2.10a1d9d2c13ca19bb292.jpg",
     "static/media/interrogation.jpg": "/Robbers_portal/static/media/interrogation.eb9dfd8682d13b1239e1.jpg",
     "static/media/gitHub.svg": "/Robbers_portal/static/media/gitHub.a5541850a2a6843f34467a91657cc39d.svg",
+    "static/media/gitHub-black.svg": "/Robbers_portal/static/media/gitHub-black.879a08487a26f06ac21248a96c866696.svg",
     "static/media/slick.svg": "/Robbers_portal/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/Robbers_portal/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/instagram.svg": "/Robbers_portal/static/media/instagram.6b0ce32a930db2eac1c21600458a8cd0.svg",
     "static/media/slick.ttf": "/Robbers_portal/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Robbers_portal/static/media/slick.295183786cd8a1389865.woff",
-    "static/media/vk.svg": "/Robbers_portal/static/media/vk.92c39b2c917df4fd4643503dd57a49bf.svg",
     "index.html": "/Robbers_portal/index.html",
-    "static/media/twitter.svg": "/Robbers_portal/static/media/twitter.9ca7b7d7634476270a563192e3f69250.svg",
-    "static/media/linkedIn.svg": "/Robbers_portal/static/media/linkedIn.55523f62797ddb51e960322dd47e5636.svg",
     "static/media/getFetch.cjs": "/Robbers_portal/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.8ad512a4.css.map": "/Robbers_portal/static/css/main.8ad512a4.css.map",
-    "main.3a964b78.js.map": "/Robbers_portal/static/js/main.3a964b78.js.map"
+    "main.64748613.css.map": "/Robbers_portal/static/css/main.64748613.css.map",
+    "main.2f0f5d5c.js.map": "/Robbers_portal/static/js/main.2f0f5d5c.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ad512a4.css",
-    "static/js/main.3a964b78.js"
+    "static/css/main.64748613.css",
+    "static/js/main.2f0f5d5c.js"
   ]
 }
