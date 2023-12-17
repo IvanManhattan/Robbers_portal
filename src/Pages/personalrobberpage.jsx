@@ -4,7 +4,6 @@ import { robbersList } from '../helpers/robbersList';
 import Timeline from '../Components/timeline/timeline';
 import VideoElement from '../Components/youtubevideo/videoelement';
 import { useTranslation } from "react-i18next"
-import Button from 'react-bootstrap/Button';
 import Map from '../Components/map/map';
 
 import SliderCar from '../Components/slider/slider'
