@@ -12,7 +12,7 @@ import { useTranslation } from "react-i18next"
 
 function App() {
 
-	// Hi
+	// Hi there
 
 	return (
 		<div className="App">
